@@ -6,7 +6,7 @@ import (
 )
 
 func Hand(w http.ResponseWriter, r *http.Request){
-    fmt.Println("Gosha, i am not  your subscriber anymore!")
+    fmt.Println("Gosha, i am not  your subscriber anymore!!!")
 }
 
 func main() {
